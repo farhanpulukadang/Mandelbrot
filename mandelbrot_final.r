@@ -1,4 +1,4 @@
-#Mandelbrot set
+#Mandelbrot set by F. Pulukadang
 cr <- seq(-2, 1.25, by = 0.005);
 x <- seq(1, length(cr));
 y <- seq(1, length(cr));
